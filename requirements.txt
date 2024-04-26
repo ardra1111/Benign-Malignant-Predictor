@@ -1,4 +1,3 @@
-streamlit==1.14.0  # Replace with the specific version you're using
-pickle
-numpy
-# Other required packages and versions
+streamlit== 1.32.2
+joblib== 1.3.2
+numpy==1.25.2
